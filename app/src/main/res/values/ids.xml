@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageView" type="id" />
+    <item name="button" type="id" />
+    <item name="classified" type="id" />
+    <item name="result" type="id" />
+    <item name="confidencesText" type="id" />
+    <item name="confidence" type="id" />
+    <item name="button_happy_song" type="id" />
+    <item name="button_sad_song" type="id" />
+</resources>
